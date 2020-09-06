@@ -1,0 +1,17 @@
+"D:\IAR7.8\arm\bin\armproc.dll" 
+
+"D:\IAR7.8\arm\bin\armjlink2.dll" 
+
+"E:\Competition\飞卡\2018.7\cx\信标7.18\曲师信标二队比赛程序\新建文件夹\2018信标C1车\Projecct\IAR\program\MK60FX_Debug\Exe\SeekFree_Kinetis.out" 
+
+--plugin "D:\IAR7.8\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR7.8\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\IAR7.8\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\IAR7.8\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
